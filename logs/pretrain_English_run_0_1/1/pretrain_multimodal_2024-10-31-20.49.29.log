@@ -1,0 +1,485 @@
+2024-10-31 20:49:29,654 - utils.logger2024-10-31-20.49.29 - INFO - The number of training samples = 31320
+2024-10-31 20:50:27,317 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:2.3118 IntF_CE:3.0146
+2024-10-31 20:50:27,734 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:2.1869 IntF_CE:2.5004
+2024-10-31 20:50:28,931 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6145 IntF_CE:1.8902
+2024-10-31 20:50:29,454 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5875 IntF_CE:2.1714
+2024-10-31 20:50:30,215 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.8899 IntF_CE:1.9117
+2024-10-31 20:50:30,838 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.9398 IntF_CE:1.8529
+2024-10-31 20:50:31,602 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5917 IntF_CE:1.6937
+2024-10-31 20:50:32,598 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.7573 IntF_CE:2.2988
+2024-10-31 20:50:33,430 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.9244 IntF_CE:1.8209
+2024-10-31 20:50:34,045 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.7497 IntF_CE:2.0246
+2024-10-31 20:50:34,596 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5000 IntF_CE:1.6050
+2024-10-31 20:50:35,493 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6193 IntF_CE:1.7258
+2024-10-31 20:50:36,320 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.9610 IntF_CE:2.0844
+2024-10-31 20:50:37,070 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5105 IntF_CE:1.7620
+2024-10-31 20:50:37,448 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.8275 IntF_CE:1.9466
+2024-10-31 20:50:38,487 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.7094 IntF_CE:1.8725
+2024-10-31 20:50:39,312 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5088 IntF_CE:1.9940
+2024-10-31 20:50:40,132 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.9463 IntF_CE:1.8373
+2024-10-31 20:50:40,982 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.8751 IntF_CE:2.0201
+2024-10-31 20:50:41,818 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6921 IntF_CE:1.8748
+2024-10-31 20:50:42,544 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4414 IntF_CE:1.8609
+2024-10-31 20:50:43,461 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.8207 IntF_CE:1.7950
+2024-10-31 20:50:44,011 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4167 IntF_CE:1.7469
+2024-10-31 20:50:44,982 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5003 IntF_CE:1.8449
+2024-10-31 20:50:45,613 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6554 IntF_CE:1.9632
+2024-10-31 20:50:46,135 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4156 IntF_CE:1.9624
+2024-10-31 20:50:47,010 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4388 IntF_CE:1.8428
+2024-10-31 20:50:47,757 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6715 IntF_CE:1.7302
+2024-10-31 20:50:49,047 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.3920 IntF_CE:1.8988
+2024-10-31 20:50:49,794 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.3454 IntF_CE:1.6204
+2024-10-31 20:50:50,345 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.2563 IntF_CE:1.6458
+2024-10-31 20:50:50,983 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5570 IntF_CE:2.0354
+2024-10-31 20:50:51,869 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.8822 IntF_CE:1.6788
+2024-10-31 20:50:52,728 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5208 IntF_CE:1.8154
+2024-10-31 20:50:53,409 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.7142 IntF_CE:1.6710
+2024-10-31 20:50:54,253 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5435 IntF_CE:1.5893
+2024-10-31 20:50:55,138 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5711 IntF_CE:1.7806
+2024-10-31 20:50:55,875 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4485 IntF_CE:1.7993
+2024-10-31 20:50:56,491 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6239 IntF_CE:1.7846
+2024-10-31 20:50:57,361 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.9019 IntF_CE:1.7723
+2024-10-31 20:50:58,066 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5457 IntF_CE:1.5582
+2024-10-31 20:50:58,779 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5317 IntF_CE:1.5615
+2024-10-31 20:50:59,778 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.8882 IntF_CE:1.7988
+2024-10-31 20:51:00,493 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5104 IntF_CE:1.7465
+2024-10-31 20:51:01,544 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6705 IntF_CE:1.7302
+2024-10-31 20:51:02,012 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6435 IntF_CE:1.7552
+2024-10-31 20:51:02,857 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.3097 IntF_CE:1.6355
+2024-10-31 20:51:03,825 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.3787 IntF_CE:1.5959
+2024-10-31 20:51:04,428 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5389 IntF_CE:1.6452
+2024-10-31 20:51:04,867 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6898 IntF_CE:2.0165
+2024-10-31 20:51:05,428 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4999 IntF_CE:1.7948
+2024-10-31 20:51:06,407 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4986 IntF_CE:1.9285
+2024-10-31 20:51:07,297 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6560 IntF_CE:1.7913
+2024-10-31 20:51:08,065 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.7225 IntF_CE:1.5115
+2024-10-31 20:51:08,516 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.2841 IntF_CE:1.9001
+2024-10-31 20:51:09,281 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5387 IntF_CE:1.6226
+2024-10-31 20:51:10,454 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6788 IntF_CE:1.6608
+2024-10-31 20:51:11,287 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4782 IntF_CE:1.7003
+2024-10-31 20:51:11,830 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4359 IntF_CE:1.9625
+2024-10-31 20:51:12,222 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6740 IntF_CE:1.8721
+2024-10-31 20:51:13,167 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.2009 IntF_CE:1.7384
+2024-10-31 20:51:13,961 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.3301 IntF_CE:1.8182
+2024-10-31 20:51:14,527 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5519 IntF_CE:1.8174
+2024-10-31 20:51:15,077 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5579 IntF_CE:1.6395
+2024-10-31 20:51:16,253 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6405 IntF_CE:1.8738
+2024-10-31 20:51:17,080 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.2199 IntF_CE:1.9018
+2024-10-31 20:51:18,028 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.3938 IntF_CE:1.8534
+2024-10-31 20:51:18,477 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.3571 IntF_CE:1.7997
+2024-10-31 20:51:19,404 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6277 IntF_CE:1.7132
+2024-10-31 20:51:19,951 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.3686 IntF_CE:2.0453
+2024-10-31 20:51:20,493 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6078 IntF_CE:1.9153
+2024-10-31 20:51:21,462 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4872 IntF_CE:1.6113
+2024-10-31 20:51:22,231 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5643 IntF_CE:1.8268
+2024-10-31 20:51:23,069 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6103 IntF_CE:1.7687
+2024-10-31 20:51:23,745 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.8745 IntF_CE:1.8326
+2024-10-31 20:51:24,563 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4972 IntF_CE:1.7447
+2024-10-31 20:51:25,190 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.3538 IntF_CE:1.8066
+2024-10-31 20:51:26,027 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4537 IntF_CE:1.8447
+2024-10-31 20:51:26,737 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6830 IntF_CE:1.5984
+2024-10-31 20:51:27,850 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4771 IntF_CE:1.6805
+2024-10-31 20:51:28,759 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5504 IntF_CE:1.7767
+2024-10-31 20:51:29,467 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4955 IntF_CE:1.8776
+2024-10-31 20:51:29,979 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.7628 IntF_CE:1.7637
+2024-10-31 20:51:30,962 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5296 IntF_CE:1.8208
+2024-10-31 20:51:31,715 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5892 IntF_CE:1.7943
+2024-10-31 20:51:32,359 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5193 IntF_CE:1.8714
+2024-10-31 20:51:32,885 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4425 IntF_CE:1.7062
+2024-10-31 20:51:33,711 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.9227 IntF_CE:1.7797
+2024-10-31 20:51:34,530 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.4445 IntF_CE:1.8380
+2024-10-31 20:51:35,272 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.7912 IntF_CE:1.4103
+2024-10-31 20:51:36,012 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5859 IntF_CE:1.7985
+2024-10-31 20:51:36,715 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5046 IntF_CE:1.6527
+2024-10-31 20:51:37,671 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5726 IntF_CE:1.3808
+2024-10-31 20:51:38,679 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.5901 IntF_CE:1.8483
+2024-10-31 20:51:39,383 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6984 IntF_CE:1.8528
+2024-10-31 20:51:39,746 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.6779 IntF_CE:1.7351
+2024-10-31 20:51:40,819 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 1 loss EmoF_CE:1.2094 IntF_CE:1.5069
+2024-10-31 20:51:41,807 - utils.logger2024-10-31-20.49.29 - INFO - saving the model at the end of epoch 1, iters 979
+2024-10-31 20:51:41,946 - utils.logger2024-10-31-20.49.29 - INFO - End of training epoch 1 / 60 	 Time Taken: 131 sec
+2024-10-31 20:51:41,946 - utils.logger2024-10-31-20.49.29 - INFO - learning rate = 0.0002000
+2024-10-31 20:51:50,996 - utils.logger2024-10-31-20.49.29 - INFO - Val result of epoch 1 / 60 emo_metric 0.4721 int_metric 0.5217 joint_metric 0.4956
+2024-10-31 20:51:50,998 - utils.logger2024-10-31-20.49.29 - INFO - 
+[[   0    0    0    0    0    0 1276]
+ [   0    0    0    0    0    0  186]
+ [   0    0    0    0    0    0  254]
+ [   0    0    0    0    0    0   72]
+ [   0    0    0    0    0    0  440]
+ [   0    0    0    0    0    0  134]
+ [   0    0    0    0    0    0 2112]]
+2024-10-31 20:51:50,999 - utils.logger2024-10-31-20.49.29 - INFO - 
+[[ 706    0    0    0    0    0    0  315]
+ [  22    0    0    0    0    0    0  259]
+ [   1    0    0    0    0    0    0   52]
+ [  15    0    0    0    0    0    0  171]
+ [  48    0    0    0    0    0    0  347]
+ [  59    0    0    0    0    0    0  406]
+ [  43    0    0    0    0    0    0  229]
+ [ 173    0    0    0    0    0    0 1628]]
+2024-10-31 20:51:51,691 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4352 IntF_CE:1.5116
+2024-10-31 20:51:56,517 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5375 IntF_CE:1.4418
+2024-10-31 20:51:56,868 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3371 IntF_CE:1.6056
+2024-10-31 20:51:57,272 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.7461 IntF_CE:1.7341
+2024-10-31 20:51:57,653 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3042 IntF_CE:2.1265
+2024-10-31 20:51:58,015 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3101 IntF_CE:1.9359
+2024-10-31 20:51:58,392 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4648 IntF_CE:1.6864
+2024-10-31 20:51:58,787 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2657 IntF_CE:1.9285
+2024-10-31 20:51:59,165 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2579 IntF_CE:1.3723
+2024-10-31 20:51:59,568 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3460 IntF_CE:1.8121
+2024-10-31 20:51:59,958 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.6893 IntF_CE:1.4985
+2024-10-31 20:52:00,380 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.1639 IntF_CE:1.7926
+2024-10-31 20:52:00,781 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3575 IntF_CE:1.6238
+2024-10-31 20:52:01,174 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.9123 IntF_CE:1.8458
+2024-10-31 20:52:01,592 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4265 IntF_CE:1.3447
+2024-10-31 20:52:01,950 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3996 IntF_CE:1.5647
+2024-10-31 20:52:02,302 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4272 IntF_CE:1.4718
+2024-10-31 20:52:02,682 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.6992 IntF_CE:1.6320
+2024-10-31 20:52:03,077 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.1210 IntF_CE:1.5064
+2024-10-31 20:52:03,471 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2491 IntF_CE:1.8193
+2024-10-31 20:52:03,881 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4744 IntF_CE:1.8585
+2024-10-31 20:52:04,300 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4696 IntF_CE:1.6572
+2024-10-31 20:52:04,676 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5073 IntF_CE:1.7488
+2024-10-31 20:52:05,075 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4534 IntF_CE:1.8250
+2024-10-31 20:52:05,453 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4240 IntF_CE:1.8641
+2024-10-31 20:52:05,839 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5357 IntF_CE:1.5042
+2024-10-31 20:52:06,240 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3410 IntF_CE:1.4744
+2024-10-31 20:52:06,648 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3998 IntF_CE:1.4864
+2024-10-31 20:52:07,062 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3267 IntF_CE:1.6862
+2024-10-31 20:52:07,461 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4213 IntF_CE:1.6745
+2024-10-31 20:52:07,811 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.6782 IntF_CE:1.2211
+2024-10-31 20:52:08,150 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5317 IntF_CE:1.7257
+2024-10-31 20:52:08,525 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3521 IntF_CE:1.6352
+2024-10-31 20:52:08,921 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5577 IntF_CE:1.5610
+2024-10-31 20:52:09,306 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5530 IntF_CE:1.2308
+2024-10-31 20:52:09,683 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3578 IntF_CE:1.7150
+2024-10-31 20:52:10,078 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.8293 IntF_CE:1.5643
+2024-10-31 20:52:10,466 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.6221 IntF_CE:1.5386
+2024-10-31 20:52:10,861 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4596 IntF_CE:1.2643
+2024-10-31 20:52:11,258 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.1687 IntF_CE:1.2721
+2024-10-31 20:52:11,609 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.9448 IntF_CE:1.4762
+2024-10-31 20:52:12,004 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2673 IntF_CE:1.8976
+2024-10-31 20:52:12,407 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3263 IntF_CE:1.4256
+2024-10-31 20:52:12,770 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3631 IntF_CE:1.6564
+2024-10-31 20:52:13,194 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2895 IntF_CE:1.6015
+2024-10-31 20:52:13,636 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2120 IntF_CE:1.8070
+2024-10-31 20:52:14,068 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5098 IntF_CE:1.3765
+2024-10-31 20:52:14,488 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4679 IntF_CE:1.6042
+2024-10-31 20:52:14,885 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4966 IntF_CE:1.7245
+2024-10-31 20:52:15,246 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3789 IntF_CE:1.7082
+2024-10-31 20:52:15,645 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4997 IntF_CE:1.6140
+2024-10-31 20:52:16,048 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.7162 IntF_CE:1.3740
+2024-10-31 20:52:16,451 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4917 IntF_CE:1.4828
+2024-10-31 20:52:16,880 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2379 IntF_CE:1.5960
+2024-10-31 20:52:17,307 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5168 IntF_CE:1.7115
+2024-10-31 20:52:17,717 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3435 IntF_CE:1.4688
+2024-10-31 20:52:18,064 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.0905 IntF_CE:1.5079
+2024-10-31 20:52:18,435 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5516 IntF_CE:1.3292
+2024-10-31 20:52:18,802 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4131 IntF_CE:1.9457
+2024-10-31 20:52:19,230 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.6264 IntF_CE:1.5415
+2024-10-31 20:52:19,662 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5524 IntF_CE:1.5972
+2024-10-31 20:52:20,090 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5668 IntF_CE:1.5740
+2024-10-31 20:52:20,511 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5400 IntF_CE:1.5420
+2024-10-31 20:52:20,918 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.6885 IntF_CE:1.5952
+2024-10-31 20:52:21,303 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.8271 IntF_CE:1.5066
+2024-10-31 20:52:21,642 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5288 IntF_CE:1.7965
+2024-10-31 20:52:22,002 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2440 IntF_CE:1.2227
+2024-10-31 20:52:22,375 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3873 IntF_CE:1.5608
+2024-10-31 20:52:22,779 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4307 IntF_CE:1.3502
+2024-10-31 20:52:23,162 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4596 IntF_CE:1.5796
+2024-10-31 20:52:23,545 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3861 IntF_CE:1.5909
+2024-10-31 20:52:23,964 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5980 IntF_CE:1.4411
+2024-10-31 20:52:24,411 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3468 IntF_CE:1.6817
+2024-10-31 20:52:24,812 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2327 IntF_CE:1.8854
+2024-10-31 20:52:25,179 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3564 IntF_CE:1.3439
+2024-10-31 20:52:25,527 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2857 IntF_CE:1.4496
+2024-10-31 20:52:25,907 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4364 IntF_CE:1.7681
+2024-10-31 20:52:26,347 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2083 IntF_CE:1.4099
+2024-10-31 20:52:26,801 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.6439 IntF_CE:1.6602
+2024-10-31 20:52:27,262 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2319 IntF_CE:1.4908
+2024-10-31 20:52:27,691 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.6838 IntF_CE:1.4685
+2024-10-31 20:52:28,144 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5796 IntF_CE:1.5119
+2024-10-31 20:52:28,584 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.7116 IntF_CE:1.7083
+2024-10-31 20:52:28,943 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4968 IntF_CE:1.2837
+2024-10-31 20:52:29,324 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2353 IntF_CE:1.5278
+2024-10-31 20:52:29,706 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4003 IntF_CE:1.5224
+2024-10-31 20:52:30,077 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4420 IntF_CE:1.5247
+2024-10-31 20:52:30,483 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.4741 IntF_CE:1.7083
+2024-10-31 20:52:30,868 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3217 IntF_CE:1.5464
+2024-10-31 20:52:31,261 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.6085 IntF_CE:1.7562
+2024-10-31 20:52:31,652 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5719 IntF_CE:1.4721
+2024-10-31 20:52:32,029 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2022 IntF_CE:1.7920
+2024-10-31 20:52:32,397 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3203 IntF_CE:1.5566
+2024-10-31 20:52:32,811 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.3340 IntF_CE:1.4119
+2024-10-31 20:52:33,199 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5922 IntF_CE:1.2409
+2024-10-31 20:52:33,595 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.6777 IntF_CE:1.4466
+2024-10-31 20:52:34,047 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.2040 IntF_CE:1.2494
+2024-10-31 20:52:34,458 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 2 loss EmoF_CE:1.5111 IntF_CE:1.4896
+2024-10-31 20:52:35,491 - utils.logger2024-10-31-20.49.29 - INFO - saving the model at the end of epoch 2, iters 1958
+2024-10-31 20:52:35,662 - utils.logger2024-10-31-20.49.29 - INFO - End of training epoch 2 / 60 	 Time Taken: 44 sec
+2024-10-31 20:52:35,663 - utils.logger2024-10-31-20.49.29 - INFO - learning rate = 0.0002000
+2024-10-31 20:52:40,960 - utils.logger2024-10-31-20.49.29 - INFO - Val result of epoch 2 / 60 emo_metric 0.4721 int_metric 0.5248 joint_metric 0.4970
+2024-10-31 20:52:40,961 - utils.logger2024-10-31-20.49.29 - INFO - 
+[[   0    0    0    0    0    0 1276]
+ [   0    0    0    0    0    0  186]
+ [   0    0    0    0    0    0  254]
+ [   0    0    0    0    0    0   72]
+ [   0    0    0    0    0    0  440]
+ [   0    0    0    0    0    0  134]
+ [   0    0    0    0    0    0 2112]]
+2024-10-31 20:52:40,962 - utils.logger2024-10-31-20.49.29 - INFO - 
+[[ 782    0    0    0    0    0    0  239]
+ [  65    0    0    0    0    0    0  216]
+ [   5    0    0    0    0    0    0   48]
+ [  21    0    0    0    0    0    0  165]
+ [  45    0    0    0    0    0    0  350]
+ [  68    0    0    0    0    0    0  397]
+ [  47    0    0    0    0    0    0  225]
+ [ 235    0    0    0    0    0    0 1566]]
+2024-10-31 20:52:41,478 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4140 IntF_CE:1.6145
+2024-10-31 20:52:42,974 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4675 IntF_CE:1.7094
+2024-10-31 20:52:43,340 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3142 IntF_CE:1.8931
+2024-10-31 20:52:43,740 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3172 IntF_CE:1.4235
+2024-10-31 20:52:44,153 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5183 IntF_CE:1.6636
+2024-10-31 20:52:44,543 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.6897 IntF_CE:1.7142
+2024-10-31 20:52:44,961 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3110 IntF_CE:1.3809
+2024-10-31 20:52:45,321 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3348 IntF_CE:1.5541
+2024-10-31 20:52:45,649 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.6043 IntF_CE:1.2344
+2024-10-31 20:52:46,028 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5194 IntF_CE:1.6519
+2024-10-31 20:52:46,403 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3795 IntF_CE:1.4519
+2024-10-31 20:52:46,770 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3876 IntF_CE:1.6832
+2024-10-31 20:52:47,178 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5311 IntF_CE:1.2035
+2024-10-31 20:52:47,558 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5563 IntF_CE:1.5359
+2024-10-31 20:52:47,940 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4772 IntF_CE:1.7675
+2024-10-31 20:52:48,310 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3355 IntF_CE:1.8410
+2024-10-31 20:52:48,616 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.6586 IntF_CE:1.6645
+2024-10-31 20:52:48,926 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4380 IntF_CE:1.5075
+2024-10-31 20:52:49,245 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.6018 IntF_CE:1.5616
+2024-10-31 20:52:49,656 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5083 IntF_CE:1.6710
+2024-10-31 20:52:50,052 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5089 IntF_CE:1.4458
+2024-10-31 20:52:50,459 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.7597 IntF_CE:1.4115
+2024-10-31 20:52:50,852 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4862 IntF_CE:1.5310
+2024-10-31 20:52:51,272 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.7778 IntF_CE:1.4714
+2024-10-31 20:52:51,695 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3177 IntF_CE:1.5324
+2024-10-31 20:52:52,112 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.6010 IntF_CE:1.5241
+2024-10-31 20:52:52,451 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.2663 IntF_CE:1.7022
+2024-10-31 20:52:52,783 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.2067 IntF_CE:1.6266
+2024-10-31 20:52:53,173 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5492 IntF_CE:1.5713
+2024-10-31 20:52:53,534 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5467 IntF_CE:1.2694
+2024-10-31 20:52:53,967 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3796 IntF_CE:1.5502
+2024-10-31 20:52:54,396 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3292 IntF_CE:1.4842
+2024-10-31 20:52:54,801 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5278 IntF_CE:1.4953
+2024-10-31 20:52:55,167 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.2450 IntF_CE:1.2662
+2024-10-31 20:52:55,533 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3515 IntF_CE:1.4298
+2024-10-31 20:52:55,880 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3351 IntF_CE:1.4388
+2024-10-31 20:52:56,216 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3277 IntF_CE:1.5848
+2024-10-31 20:52:56,559 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.1562 IntF_CE:1.7692
+2024-10-31 20:52:56,906 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4592 IntF_CE:1.2970
+2024-10-31 20:52:57,303 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4829 IntF_CE:1.1114
+2024-10-31 20:52:57,697 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4451 IntF_CE:1.4164
+2024-10-31 20:52:58,107 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3075 IntF_CE:1.4010
+2024-10-31 20:52:58,522 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5189 IntF_CE:1.5456
+2024-10-31 20:52:58,870 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3055 IntF_CE:1.5549
+2024-10-31 20:52:59,244 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3688 IntF_CE:1.3959
+2024-10-31 20:52:59,649 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.8270 IntF_CE:1.4493
+2024-10-31 20:53:00,024 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4501 IntF_CE:1.8000
+2024-10-31 20:53:00,418 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3967 IntF_CE:1.6780
+2024-10-31 20:53:00,852 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.2854 IntF_CE:1.7938
+2024-10-31 20:53:01,255 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4456 IntF_CE:1.5778
+2024-10-31 20:53:01,655 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.6364 IntF_CE:1.5816
+2024-10-31 20:53:02,054 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.2615 IntF_CE:1.6060
+2024-10-31 20:53:02,425 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3516 IntF_CE:1.4956
+2024-10-31 20:53:02,751 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.6178 IntF_CE:1.6021
+2024-10-31 20:53:03,090 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.2203 IntF_CE:1.4366
+2024-10-31 20:53:03,441 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.2553 IntF_CE:1.5505
+2024-10-31 20:53:03,855 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.6323 IntF_CE:1.6025
+2024-10-31 20:53:04,276 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5416 IntF_CE:1.8876
+2024-10-31 20:53:04,724 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.6947 IntF_CE:1.2786
+2024-10-31 20:53:05,140 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.6349 IntF_CE:1.8251
+2024-10-31 20:53:05,560 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4717 IntF_CE:1.6552
+2024-10-31 20:53:05,970 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5251 IntF_CE:1.5842
+2024-10-31 20:53:06,318 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3510 IntF_CE:1.8949
+2024-10-31 20:53:06,673 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3000 IntF_CE:1.5475
+2024-10-31 20:53:07,064 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.6684 IntF_CE:1.6246
+2024-10-31 20:53:07,465 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3777 IntF_CE:1.8054
+2024-10-31 20:53:07,855 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5018 IntF_CE:1.3784
+2024-10-31 20:53:08,231 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.2056 IntF_CE:1.7873
+2024-10-31 20:53:08,616 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.2935 IntF_CE:1.9540
+2024-10-31 20:53:09,038 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5148 IntF_CE:1.8814
+2024-10-31 20:53:09,446 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5340 IntF_CE:1.6808
+2024-10-31 20:53:09,844 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3342 IntF_CE:1.5940
+2024-10-31 20:53:10,244 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.2796 IntF_CE:1.9269
+2024-10-31 20:53:10,674 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3765 IntF_CE:1.4624
+2024-10-31 20:53:11,082 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3845 IntF_CE:1.0957
+2024-10-31 20:53:11,538 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3259 IntF_CE:1.5942
+2024-10-31 20:53:11,964 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3423 IntF_CE:1.2104
+2024-10-31 20:53:12,351 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3739 IntF_CE:1.3951
+2024-10-31 20:53:12,711 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4712 IntF_CE:1.6275
+2024-10-31 20:53:13,059 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.7341 IntF_CE:1.4788
+2024-10-31 20:53:13,456 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3876 IntF_CE:1.4520
+2024-10-31 20:53:13,821 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.2493 IntF_CE:1.4465
+2024-10-31 20:53:14,223 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3126 IntF_CE:1.5556
+2024-10-31 20:53:14,642 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.2589 IntF_CE:1.5785
+2024-10-31 20:53:15,080 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5099 IntF_CE:1.5989
+2024-10-31 20:53:15,512 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4908 IntF_CE:1.5844
+2024-10-31 20:53:15,854 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4493 IntF_CE:1.7533
+2024-10-31 20:53:16,188 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.6067 IntF_CE:1.8115
+2024-10-31 20:53:16,572 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3350 IntF_CE:1.2714
+2024-10-31 20:53:16,938 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3454 IntF_CE:1.4815
+2024-10-31 20:53:17,317 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.6194 IntF_CE:1.4856
+2024-10-31 20:53:17,688 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.5255 IntF_CE:1.4610
+2024-10-31 20:53:18,055 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.4252 IntF_CE:1.4438
+2024-10-31 20:53:18,463 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3740 IntF_CE:1.8635
+2024-10-31 20:53:18,871 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.2317 IntF_CE:1.6212
+2024-10-31 20:53:19,268 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.2509 IntF_CE:1.8584
+2024-10-31 20:53:19,634 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.6584 IntF_CE:1.3088
+2024-10-31 20:53:19,976 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 3 loss EmoF_CE:1.3699 IntF_CE:1.6374
+2024-10-31 20:53:20,931 - utils.logger2024-10-31-20.49.29 - INFO - saving the model at the end of epoch 3, iters 2937
+2024-10-31 20:53:21,135 - utils.logger2024-10-31-20.49.29 - INFO - End of training epoch 3 / 60 	 Time Taken: 40 sec
+2024-10-31 20:53:21,135 - utils.logger2024-10-31-20.49.29 - INFO - learning rate = 0.0002000
+2024-10-31 20:53:26,522 - utils.logger2024-10-31-20.49.29 - INFO - Val result of epoch 3 / 60 emo_metric 0.4721 int_metric 0.5364 joint_metric 0.5022
+2024-10-31 20:53:26,523 - utils.logger2024-10-31-20.49.29 - INFO - 
+[[   0    0    0    0    0    0 1276]
+ [   0    0    0    0    0    0  186]
+ [   0    0    0    0    0    0  254]
+ [   0    0    0    0    0    0   72]
+ [   0    0    0    0    0    0  440]
+ [   0    0    0    0    0    0  134]
+ [   0    0    0    0    0    0 2112]]
+2024-10-31 20:53:26,525 - utils.logger2024-10-31-20.49.29 - INFO - 
+[[ 711    0    0    0    0    0    0  310]
+ [  18    0    0    0    0    0    0  263]
+ [   1    0    0    0    0    0    0   52]
+ [   8    0    0    0    0    0    0  178]
+ [  27    0    0    0    0    0    0  368]
+ [  43    0    0    0    0    0    0  422]
+ [  29    0    0    0    0    0    0  243]
+ [ 112    0    0    0    0    0    0 1689]]
+2024-10-31 20:53:27,294 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2200 IntF_CE:1.6856
+2024-10-31 20:53:28,583 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4449 IntF_CE:1.5325
+2024-10-31 20:53:28,876 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5577 IntF_CE:1.4190
+2024-10-31 20:53:29,215 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4444 IntF_CE:1.4423
+2024-10-31 20:53:29,595 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2390 IntF_CE:1.5781
+2024-10-31 20:53:29,964 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4641 IntF_CE:1.3962
+2024-10-31 20:53:30,362 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2711 IntF_CE:1.5984
+2024-10-31 20:53:30,738 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4498 IntF_CE:1.2962
+2024-10-31 20:53:31,130 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5271 IntF_CE:1.2357
+2024-10-31 20:53:31,520 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3093 IntF_CE:1.5000
+2024-10-31 20:53:31,959 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.7568 IntF_CE:1.7430
+2024-10-31 20:53:32,385 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.6109 IntF_CE:1.8553
+2024-10-31 20:53:32,736 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5070 IntF_CE:1.3340
+2024-10-31 20:53:33,074 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2514 IntF_CE:1.9824
+2024-10-31 20:53:33,461 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3168 IntF_CE:1.3088
+2024-10-31 20:53:33,857 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5985 IntF_CE:1.5645
+2024-10-31 20:53:34,255 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3747 IntF_CE:1.6162
+2024-10-31 20:53:34,679 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4226 IntF_CE:1.5947
+2024-10-31 20:53:35,082 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5882 IntF_CE:1.6272
+2024-10-31 20:53:35,480 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.7952 IntF_CE:1.6904
+2024-10-31 20:53:35,840 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4769 IntF_CE:1.4040
+2024-10-31 20:53:36,193 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4856 IntF_CE:1.6036
+2024-10-31 20:53:36,578 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4255 IntF_CE:2.0594
+2024-10-31 20:53:36,989 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2537 IntF_CE:1.9555
+2024-10-31 20:53:37,362 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3922 IntF_CE:1.1798
+2024-10-31 20:53:37,764 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.6645 IntF_CE:1.6781
+2024-10-31 20:53:38,161 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4591 IntF_CE:1.6609
+2024-10-31 20:53:38,558 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3089 IntF_CE:1.4737
+2024-10-31 20:53:38,962 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4697 IntF_CE:1.4689
+2024-10-31 20:53:39,317 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.6439 IntF_CE:1.4570
+2024-10-31 20:53:39,657 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.6759 IntF_CE:1.1940
+2024-10-31 20:53:40,041 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4235 IntF_CE:1.5604
+2024-10-31 20:53:40,420 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.8404 IntF_CE:1.6059
+2024-10-31 20:53:40,804 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5014 IntF_CE:1.4239
+2024-10-31 20:53:41,185 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3183 IntF_CE:1.5837
+2024-10-31 20:53:41,637 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2522 IntF_CE:1.5331
+2024-10-31 20:53:42,043 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5410 IntF_CE:1.2301
+2024-10-31 20:53:42,432 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.1120 IntF_CE:1.4953
+2024-10-31 20:53:42,776 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5122 IntF_CE:1.3161
+2024-10-31 20:53:43,112 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5285 IntF_CE:1.7929
+2024-10-31 20:53:43,444 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4442 IntF_CE:1.3427
+2024-10-31 20:53:43,797 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4169 IntF_CE:1.5316
+2024-10-31 20:53:44,146 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3031 IntF_CE:1.5694
+2024-10-31 20:53:44,539 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.6931 IntF_CE:1.4618
+2024-10-31 20:53:44,949 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2491 IntF_CE:1.4873
+2024-10-31 20:53:45,359 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2633 IntF_CE:1.2986
+2024-10-31 20:53:45,768 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3775 IntF_CE:1.6998
+2024-10-31 20:53:46,160 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4388 IntF_CE:1.5196
+2024-10-31 20:53:46,537 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3516 IntF_CE:1.6318
+2024-10-31 20:53:46,873 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3184 IntF_CE:1.2577
+2024-10-31 20:53:47,224 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5281 IntF_CE:1.2545
+2024-10-31 20:53:47,569 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.1053 IntF_CE:1.9080
+2024-10-31 20:53:47,918 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.6347 IntF_CE:1.5438
+2024-10-31 20:53:48,327 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2505 IntF_CE:1.9270
+2024-10-31 20:53:48,719 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3242 IntF_CE:1.7331
+2024-10-31 20:53:49,179 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3635 IntF_CE:1.9078
+2024-10-31 20:53:49,594 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.7600 IntF_CE:1.4118
+2024-10-31 20:53:49,968 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3036 IntF_CE:1.5006
+2024-10-31 20:53:50,334 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.7890 IntF_CE:1.4962
+2024-10-31 20:53:50,711 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3907 IntF_CE:1.5564
+2024-10-31 20:53:51,115 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2628 IntF_CE:1.5361
+2024-10-31 20:53:51,520 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5691 IntF_CE:1.5025
+2024-10-31 20:53:51,913 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4152 IntF_CE:1.5661
+2024-10-31 20:53:52,332 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2957 IntF_CE:1.4052
+2024-10-31 20:53:52,727 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2764 IntF_CE:1.7160
+2024-10-31 20:53:53,086 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3965 IntF_CE:1.8215
+2024-10-31 20:53:53,436 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3711 IntF_CE:1.1932
+2024-10-31 20:53:53,824 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3835 IntF_CE:1.7066
+2024-10-31 20:53:54,186 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2203 IntF_CE:1.3395
+2024-10-31 20:53:54,565 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2868 IntF_CE:1.5518
+2024-10-31 20:53:54,961 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2414 IntF_CE:1.4923
+2024-10-31 20:53:55,330 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.6574 IntF_CE:1.3930
+2024-10-31 20:53:55,731 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.8927 IntF_CE:1.3716
+2024-10-31 20:53:56,134 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3510 IntF_CE:1.4627
+2024-10-31 20:53:56,507 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4367 IntF_CE:1.6888
+2024-10-31 20:53:56,840 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2403 IntF_CE:1.5273
+2024-10-31 20:53:57,152 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3069 IntF_CE:1.1970
+2024-10-31 20:53:57,495 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.0546 IntF_CE:1.3506
+2024-10-31 20:53:57,845 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5356 IntF_CE:1.5352
+2024-10-31 20:53:58,235 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2554 IntF_CE:1.2478
+2024-10-31 20:53:58,617 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4246 IntF_CE:1.6130
+2024-10-31 20:53:59,032 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2764 IntF_CE:1.7618
+2024-10-31 20:53:59,408 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5037 IntF_CE:1.5641
+2024-10-31 20:53:59,821 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2851 IntF_CE:1.8872
+2024-10-31 20:54:00,228 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4914 IntF_CE:1.4687
+2024-10-31 20:54:00,552 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3909 IntF_CE:1.2354
+2024-10-31 20:54:00,897 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4712 IntF_CE:1.5392
+2024-10-31 20:54:01,283 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4438 IntF_CE:1.2455
+2024-10-31 20:54:01,650 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5426 IntF_CE:1.6559
+2024-10-31 20:54:02,050 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2123 IntF_CE:1.2813
+2024-10-31 20:54:02,463 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.3824 IntF_CE:1.4777
+2024-10-31 20:54:02,889 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.1708 IntF_CE:1.3775
+2024-10-31 20:54:03,269 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.6634 IntF_CE:1.3521
+2024-10-31 20:54:03,646 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4242 IntF_CE:1.6629
+2024-10-31 20:54:03,996 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.6077 IntF_CE:1.6249
+2024-10-31 20:54:04,367 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.4392 IntF_CE:1.5224
+2024-10-31 20:54:04,762 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.5575 IntF_CE:1.6080
+2024-10-31 20:54:05,128 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 4 loss EmoF_CE:1.2678 IntF_CE:1.7137
+2024-10-31 20:54:06,100 - utils.logger2024-10-31-20.49.29 - INFO - saving the model at the end of epoch 4, iters 3916
+2024-10-31 20:54:06,276 - utils.logger2024-10-31-20.49.29 - INFO - End of training epoch 4 / 60 	 Time Taken: 39 sec
+2024-10-31 20:54:06,277 - utils.logger2024-10-31-20.49.29 - INFO - learning rate = 0.0002000
+2024-10-31 20:54:11,310 - utils.logger2024-10-31-20.49.29 - INFO - Val result of epoch 4 / 60 emo_metric 0.4721 int_metric 0.5376 joint_metric 0.5027
+2024-10-31 20:54:11,311 - utils.logger2024-10-31-20.49.29 - INFO - 
+[[   0    0    0    0    0    0 1276]
+ [   0    0    0    0    0    0  186]
+ [   0    0    0    0    0    0  254]
+ [   0    0    0    0    0    0   72]
+ [   0    0    0    0    0    0  440]
+ [   0    0    0    0    0    0  134]
+ [   0    0    0    0    0    0 2112]]
+2024-10-31 20:54:11,312 - utils.logger2024-10-31-20.49.29 - INFO - 
+[[ 756    0    0    0    0    0    0  265]
+ [  21    0    0    0    0    0    0  260]
+ [   1    0    0    0    0    0    0   52]
+ [  10    0    0    0    0    0    0  176]
+ [  37    0    0    0    0    0    0  358]
+ [  58    0    0    0    0    0    0  407]
+ [  32    0    0    0    0    0    0  240]
+ [ 152    0    0    0    0    0    0 1649]]
+2024-10-31 20:54:12,314 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 5 loss EmoF_CE:1.5669 IntF_CE:1.5293
+2024-10-31 20:54:13,347 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 5 loss EmoF_CE:1.0132 IntF_CE:1.6738
+2024-10-31 20:54:13,644 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 5 loss EmoF_CE:1.4198 IntF_CE:1.4194
+2024-10-31 20:54:14,020 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 5 loss EmoF_CE:1.5676 IntF_CE:1.4587
+2024-10-31 20:54:14,394 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 5 loss EmoF_CE:1.6505 IntF_CE:1.5087
+2024-10-31 20:54:14,741 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 5 loss EmoF_CE:1.3183 IntF_CE:1.2594
+2024-10-31 20:54:15,123 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 5 loss EmoF_CE:1.6448 IntF_CE:1.3542
+2024-10-31 20:54:15,501 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 5 loss EmoF_CE:1.4195 IntF_CE:1.3461
+2024-10-31 20:54:15,904 - utils.logger2024-10-31-20.49.29 - INFO - Cur epoch 5 loss EmoF_CE:1.4221 IntF_CE:1.5994

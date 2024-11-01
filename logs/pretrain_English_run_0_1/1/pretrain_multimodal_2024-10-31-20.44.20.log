@@ -1,0 +1,4 @@
+2024-10-31 20:44:20,215 - utils.logger2024-10-31-20.44.20 - INFO - The number of training samples = 31320
+2024-10-31 20:44:22,968 - utils.logger2024-10-31-20.44.20 - INFO - Cur epoch 1 loss EmoF_CE:2.5676 IntF_CE:2.2515
+2024-10-31 20:44:24,304 - utils.logger2024-10-31-20.44.20 - INFO - Cur epoch 1 loss EmoF_CE:2.0958 IntF_CE:2.3022
+2024-10-31 20:44:25,566 - utils.logger2024-10-31-20.44.20 - INFO - Cur epoch 1 loss EmoF_CE:2.0232 IntF_CE:1.9193
